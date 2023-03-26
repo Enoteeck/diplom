@@ -86,4 +86,19 @@ body {
 
 .description {
   padding: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.rare{
+  height: 25px;
+  width: 25px;
+}
+
+.rarity {
+  list-style: disc;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
 }
